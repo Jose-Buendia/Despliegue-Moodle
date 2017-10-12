@@ -23,4 +23,4 @@ ssh -o StrictHostKeyChecking=no root@server01 -p 2221 -i key.private hostname
 echo "Adicionadas las llaves ssh."
 echo
 echo "----------------------"
-echo "Sigue con ansible002"
+
